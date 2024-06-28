@@ -1,12 +1,14 @@
 # Machine Learning for Predicting Tool Wear Failure in Milling Machines
 
+By: Syahrul Mubarak
+
 ## Overview
 
 This project focuses on developing a machine learning model to predict tool wear failure in milling machines using sensor data. Early prediction of tool wear failure can significantly reduce production downtime and maintenance costs. The chosen model for this task is Logistic Regression, known for its simplicity, speed, and effectiveness in binary classification problems.
 
 ## Dataset
 
-The dataset used in this project is the `ai4i2020.csv` file, which contains sensor data from milling machines. The features include various measurements such as air temperature, process temperature, rotational speed, torque, and tool wear. The target variable is the tool wear failure (`TWF`), a binary indicator of whether tool wear failure has occurred.
+The dataset used in this project is the `ai4i2020.csv` file, which contains sensor data from milling machines. The features include various measurements such as type air temperature, process temperature, rotational speed, torque, and tool wear. The target variable is the tool wear failure (`TWF`), a binary indicator of whether tool wear failure has occurred.
 
 ### Features
 
